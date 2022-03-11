@@ -1,7 +1,7 @@
 // -----JS CODE-----
 //@input Component.Head head;
 //@input Component.ScriptComponent razerGameScript
-
+//@input Component.ScriptComponent playerFireController
 //@input Component.ScriptComponent ringsController
 //@input SceneObject startHint
 //@input SceneObject secondHint
@@ -38,8 +38,8 @@ script.api.PlayAnim = function ()
     
   //  delayPlayExplosionAnim.reset(0.45);   
 
-// REPLAY GAME
-  //  delayReleaseGame.reset(3.2);
+// GAME OVER
+    delayGameOver.reset(1);
 }
 
 var delayReleaseGame = script.createEvent("DelayedCallbackEvent");
@@ -49,6 +49,7 @@ delayReleaseGame.bind(function (eventData)
 
     StopShavingAudio();
     script.ringsController.api.ReleaseGame();
+    script.playerFireController.api.ReleaseGame();
 });
 
 function PlayRingAudio()
@@ -189,7 +190,7 @@ delayGameOver.bind(function (eventData)
     script.endGamePanel.enabled = true;
 });
 
- BeginGame();
+
 function onFaceFound()
 {
    isFaceTracking = true;
@@ -205,3 +206,5 @@ var faceLostEvent = script.createEvent("FaceLostEvent");
 faceLostEvent.bind(onFaceLost);
 var UpdateEvent = script.createEvent("UpdateEvent");
 UpdateEvent.bind(Update);
+
+BeginGame();

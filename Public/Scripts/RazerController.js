@@ -5,10 +5,13 @@
 //@input float rightBorder
 //@input float razorSpeed = 0.1
 
+
 var razerT = script.razerGame.getTransform();
 var speedCoef = 0;
 var speedMod = 0;
 var speed = script.razorSpeed;
+
+
 
 var isPlayingAnim = false;
 
