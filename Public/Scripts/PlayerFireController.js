@@ -1,11 +1,8 @@
 // -----JS CODE-----
-//@input SceneObject aim
 //@input Component.ScriptComponent[] rings
 //@input float spawnDelay
 //@input Component.ScriptComponent headController
-
-
-var aimT = script.aim.getTransform();
+//@input Component.ScriptComponent enemiesController
 
 var timer = script.spawnDelay;
 var isSpawning = true;
@@ -41,7 +38,7 @@ function CoolDown(eventData)
 
 function SpawnObj()
 {
-    print (script.headController.api.GetGameEnabled() );
+   // print (script.headController.api.GetGameEnabled() );
     for(var j = 0;j<script.rings.length;j++)   
     {     
         if (script.rings[j].api.GetMoving() === false)
@@ -50,8 +47,17 @@ function SpawnObj()
             script.rings[j].api.SetMoving(true);
             break;
         } 
-    }
-    
+    } 
+}
+
+script.api.GetCurrentEnemiesT = function () 
+{
+    return script.enemiesController.api.GetCurrentEnemiesT();
+}
+
+script.api.SetDamageToEnemie = function (id) 
+{
+    script.enemiesController.api.SetDamageToEnemie(id);
 }
 
 script.api.GotRing = function () 
