@@ -48,26 +48,16 @@ function SpawnObj()
     } 
 }
 
-script.api.GetCurrentEnemiesT = function () 
-{
-    var listT = [];
-    for (var i = script.rings.length - 1; i >= 0; i--) {
-        listT.push(script.rings[i].getSceneObject().getTransform().getWorldPosition());
-    }
-    return listT;
-}
-
-script.api.SetDamageToEnemie = function (id) 
-{
-    script.rings[id].api.SetMoving(false);
-    script.rings[id].api.InitPosition();
-}
-
-script.api.GotRing = function () 
+script.api.GotPlayerCollision = function () 
 {
     script.headController.api.PlayAnim();
     isSpawning = false;
     InitRings();
+}
+
+script.api.IncreaseScore = function () 
+{
+    script.headController.api.SetScore(script.headController.api.GetScore()+1);
 }
 
 script.api.ReleaseGame = function () 

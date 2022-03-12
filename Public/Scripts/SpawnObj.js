@@ -5,16 +5,20 @@
 //@input float xMax
 //@input SceneObject razorGame
 //@input Component.ScriptComponent ringsController
+//@input Component.ScriptComponent bulletsController
 //@input float speed = 0.25
 
 //@input float xCollision = 0.45
 //@input float yCollision = 0.3
 
 //@input bool isBullet
+//@input int health
 
 var aimT = script.razorGame.getTransform();
 var transform = script.getSceneObject().getTransform();
 var isMoving = false;
+
+var baseHealth = script.health;
 
 function getRndValue(v1,v2,v3,v4)
 {
@@ -66,26 +70,42 @@ function CheckCollision()
         {
             if (Math.abs(razorPos.y - Pos.y)<script.yCollision)
             {
-                print("Got a ring");
-                SelfDisable(0.3);
+               // print("Collision with player");
+                SelfDisable(0.1);
+                PlayerDie();
             }
         }
-    }else 
-    {   
-        var listT = script.ringsController.api.GetCurrentEnemiesT();
-        for (var i = listT.length - 1; i >= 0; i--) {
-         
-            if (Math.abs(listT[i].x - Pos.x)< script.xCollision)
+
+        var listT = script.bulletsController.api.GetCurrentBulletsT();
+        for (var i = listT.length - 1; i >= 0; i--) 
+        {
+            var lT = listT[i].getSceneObject().getTransform().getWorldPosition()
+            if (Math.abs(lT.x - Pos.x) < script.xCollision)
             {
-                if (Math.abs(listT[i].y - Pos.y)<script.yCollision)
+                if (Math.abs(lT.y - Pos.y) <script.yCollision)
                 {
-                    print("Got collision");
-                    script.ringsController.api.SetDamageToEnemie(i);
+                   // print("TakeDamage");
+                    TakeDamage();
+                    listT[i].api.SetDisable();
                 }
             }
         }
-        
-    } 
+    }
+}
+
+function TakeDamage()
+{
+    script.health--;
+    CheckHealth();
+}
+
+function CheckHealth() 
+{
+    if(script.health === 0)
+    {
+        SelfDisable(0.1);
+        script.ringsController.api.IncreaseScore();
+    }
 }
 
 function SelfDisable(value)
@@ -120,13 +140,23 @@ function Shot()
     }
 }
 
+function PlayerDie() 
+{
+    script.ringsController.api.GotPlayerCollision();
+}
+
 var delaySelfDisable = script.createEvent("DelayedCallbackEvent");
 delaySelfDisable.bind(function (eventData)
 {
-   InitBasePosition(); 
+    script.health = baseHealth;
+    InitBasePosition(); 
     isMoving = false;
-   script.ringsController.api.GotRing();
 });
+
+script.api.SetDisable = function (value) 
+{
+    delaySelfDisable.reset(0);
+}
 
 script.api.SetMoving = function (value) 
 {

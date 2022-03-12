@@ -50,14 +50,15 @@ function SpawnObj()
     } 
 }
 
-script.api.GetCurrentEnemiesT = function () 
+script.api.GetCurrentBulletsT = function ()  // is bullet is moving
 {
-    return script.enemiesController.api.GetCurrentEnemiesT();
-}
-
-script.api.SetDamageToEnemie = function (id) 
-{
-    script.enemiesController.api.SetDamageToEnemie(id);
+    var listT = [];
+    for (var i = script.rings.length - 1; i >= 0; i--) 
+    {
+        if(script.rings[i].api.GetMoving() === true)
+            listT.push(script.rings[i]);
+    }
+    return listT;
 }
 
 script.api.GotRing = function () 

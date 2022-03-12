@@ -33,8 +33,6 @@ script.api.PlayAnim = function ()
     
     // Play score bounce anim
     global.tweenManager.startTween( script.scorePanel, "update_score_tween" );  
-    // Update score
-    script.api.SetScore(score+1);  
     
   //  delayPlayExplosionAnim.reset(0.45);   
 
@@ -79,12 +77,7 @@ script.api.SetScore = function (value)
 {
     score = value;
 
-    script.scoreTxt.text = score+"/"+script.maxScore;
-    
-    if (script.maxScore == score)
-    {
-        delayGameOver.reset(3.5);
-    }
+    script.scoreTxt.text = score.toString();
 }
 
 script.api.GetScore = function () 
@@ -94,8 +87,7 @@ script.api.GetScore = function ()
 
 script.api.ResetGame = function () 
 {
-    BeginGame();
-   
+    BeginGame(); 
 }
 
 
