@@ -3,7 +3,7 @@
     "document_id": "SSzU5nTCYNTUti8BqyMD",
     "original_document_id": "7xkSWqFqdC9gLw-5aTFj",
     "version": "29",
-    "lastChanged": "1647108253902",
+    "lastChanged": "1647160964501",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -32,395 +32,431 @@
             "collapsedList": [
                 [
                     [
-                        "Behavior"
+                        "Audio"
                     ],
                     [
-                        "Box"
+                        "Audio",
+                        "Start_Audio"
+                    ],
+                    [
+                        "Behavior"
                     ],
                     [
                         "Echopark"
                     ],
                     [
-                        "Import"
+                        "Import Enemies"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "CamoStellarJet"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "CamoStellarJet",
                         "CamoStellarJet"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "CamoStellarJet",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "CamoStellarJet",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "DualStriker"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "DualStriker",
                         "DualStriker"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "DualStriker",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "DualStriker",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "GalactixRacer"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "GalactixRacer",
                         "GalactixRacer"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "GalactixRacer",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "GalactixRacer",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "InfraredFurtive"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "InfraredFurtive",
                         "InfraredFurtive"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "InfraredFurtive",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "InfraredFurtive",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "InterstellarRunner"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "InterstellarRunner",
                         "InterstellarRunner"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "InterstellarRunner",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "InterstellarRunner",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "MeteorSlicer"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "MeteorSlicer",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "MeteorSlicer",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "MeteorSlicer",
                         "MeteorSlicer"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "MicroRecon"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "MicroRecon",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "MicroRecon",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "MicroRecon",
                         "MicroRecon"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "RedFighter"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "RedFighter",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "RedFighter",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "RedFighter",
                         "RedFighter"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "StarMarineTrooper"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "StarMarineTrooper",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "StarMarineTrooper",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "StarMarineTrooper",
                         "StarMarineTrooper"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_CamoStellarJet"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_CamoStellarJet",
                         "CamoStellarJet 2"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_CamoStellarJet",
                         "M_CamoStellarJet"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_DualStriker"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_DualStriker",
                         "DualStriker"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_DualStriker",
                         "M_DualStriker"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
+                        "T_GalactixRacer"
+                    ],
+                    [
+                        "Import Enemies",
                         "T_GalactixRacer",
                         "GalactixRacer"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_GalactixRacer",
                         "M_GalactixRacer"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
+                        "T_InfraredFurtive"
+                    ],
+                    [
+                        "Import Enemies",
                         "T_InfraredFurtive",
                         "InfraredFurtive"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_InfraredFurtive",
                         "M_InfraredFurtive"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
+                        "T_InterstellarRunner"
+                    ],
+                    [
+                        "Import Enemies",
                         "T_InterstellarRunner",
                         "InterstellarRunner"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_InterstellarRunner",
                         "M_InterstellarRunner"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
+                        "T_MeteorSlicer"
+                    ],
+                    [
+                        "Import Enemies",
                         "T_MeteorSlicer",
                         "M_MeteorSlicer"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_MeteorSlicer",
                         "MeteorSlicer"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
+                        "T_MicroRecon"
+                    ],
+                    [
+                        "Import Enemies",
                         "T_MicroRecon",
                         "M_MicroRecon"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_MicroRecon",
                         "MicroRecon"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
+                        "T_RedFighter"
+                    ],
+                    [
+                        "Import Enemies",
                         "T_RedFighter",
                         "M_RedFighter"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_RedFighter",
                         "RedFighter"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
+                        "T_StarMarineTrooper"
+                    ],
+                    [
+                        "Import Enemies",
                         "T_StarMarineTrooper",
                         "M_StarMarineTrooper"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_StarMarineTrooper",
                         "StarMarineTrooper"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
+                        "T_Transtellar"
+                    ],
+                    [
+                        "Import Enemies",
                         "T_Transtellar",
                         "M_Transtellar"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_Transtellar",
                         "Transtellar"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_UltravioletIntruder"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_UltravioletIntruder",
                         "M_UltravioletIntruder"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_UltravioletIntruder",
                         "UltravioletIntruder"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_Warship"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_Warship",
                         "M_Warship"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_Warship",
                         "Warship 2"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "T_Warship",
                         "Warship_Emissive"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "Transtellar"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "Transtellar",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "Transtellar",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "Transtellar",
                         "Transtellar"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "UltravioletIntruder"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "UltravioletIntruder",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "UltravioletIntruder",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "UltravioletIntruder",
                         "UltravioletIntruder"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "Warship"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "Warship",
                         "Meshes"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "Warship",
                         "Meshes",
                         "Resource"
                     ],
                     [
-                        "Import",
+                        "Import Enemies",
                         "Warship",
                         "Warship"
                     ],
@@ -436,6 +472,23 @@
                         "Yellow"
                     ],
                     [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Box"
+                    ],
+                    [
+                        "RT"
+                    ],
+                    [
+                        "RT",
+                        "Render Target Live"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
                         "Scripts",
                         "DebugTool"
                     ],
@@ -446,6 +499,23 @@
                     [
                         "Scripts",
                         "PlayerFireController"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "AnimExplosion",
+                        "animation_ex_a"
+                    ],
+                    [
+                        "Textures",
+                        "AnimExplosion",
+                        "animation_ex_b"
+                    ],
+                    [
+                        "Textures",
+                        "UI"
                     ],
                     [
                         "Textures",
@@ -590,8 +660,9 @@
                     "1602492749683915:56739",
                     "1602492749687442:56762",
                     "1602492749701190:56859",
+                    "1602494676812111:212448",
+                    "1602499411926287:801213",
                     "1602499644010369:836350",
-                    "1602504934978795:7968",
                     "1602509313257406:315727",
                     "1602509314051493:316467",
                     "1602509314577286:317137",
@@ -650,6 +721,7 @@
                     "1604326520381423:110093",
                     "1604327056956622:292260",
                     "1604417523888838:43257",
+                    "1604573472158323:198124",
                     "1604668965625530:57943",
                     "1604671443921655:83916",
                     "1604671447178626:92713",
@@ -663,10 +735,8 @@
                     "1604932788847350:553175",
                     "1604936634052683:428031",
                     "1605558071163242:164753",
-                    "1646672668662549:326256",
-                    "1646674046314892:1328475",
-                    "1646674051317260:1350547",
-                    "1646674055025158:1372397",
+                    "1646673268897137:661946",
+                    "1646673268899785:661950",
                     "1646674067619853:1416779",
                     "1646674074297885:1439035",
                     "1646674079587280:1461133",
@@ -674,14 +744,18 @@
                     "1646674092017259:1505615",
                     "1646674101316585:1528243",
                     "1646932232411186:234568",
-                    "1647006505186683:781673",
                     "1647006527466424:792374",
-                    "1647006527469496:792376",
                     "1647006527472503:792411",
                     "1647037223667178:1560503",
                     "1647037224708402:1568420",
                     "1647037535335648:1760916",
-                    "1647106985670250:1550698"
+                    "1647159544712176:1890709",
+                    "1647159560857505:1910208",
+                    "1647159598301197:1932340",
+                    "1647159617632297:1952402",
+                    "1647159632003855:1972026",
+                    "1647159655583683:1992875",
+                    "1647160483375689:2319487"
                 ]
             ],
             "selectionSetList": ""
@@ -1483,6 +1557,38 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "380",
+                    "uid": "1647157145588823:674499",
+                    "name": "Files\/File823",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "381",
+                    "uid": "1647157178535144:701928",
+                    "name": "Files\/File827",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "496",
+                    "uid": "1647160447765087:2274570",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "497",
+                    "uid": "1647160578336615:2394673",
+                    "name": "Files\/File1074.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1681,6 +1787,48 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1647155957528053:157825",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1647160504945977:2351599",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1647160504988380:2351737",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -1755,11 +1903,21 @@
                 "63": "1647106985670250:1550698",
                 "64": "1647106985713709:1550837",
                 "65": "1647107027966548:1579377",
-                "66": "1647107155472131:1636391"
+                "66": "1647107155472131:1636391",
+                "67": "1647155957510059:157565",
+                "68": "1647156828146725:486983",
+                "69": "1647158202994405:1096696",
+                "70": "1647158277911041:1146996",
+                "71": "1647158333497218:1195046",
+                "72": "1647158389545246:1225775",
+                "73": "1647158421970050:1263135",
+                "74": "1647160504944922:2351597",
+                "75": "1647160765912304:2443288",
+                "76": "1647160779692049:2445052"
             }
         },
         "LayerComponent": {
-            "nextLayerId": "6",
+            "nextLayerId": "7",
             "showOrthographicLayer": "true",
             "layersInfo": [
                 {
@@ -1779,6 +1937,12 @@
                     "layerName": "Game",
                     "layerMask": "2",
                     "colorCode": "0"
+                },
+                {
+                    "layerId": "6",
+                    "layerName": "RT",
+                    "layerMask": "4",
+                    "colorCode": "1"
                 }
             ]
         },
@@ -2483,6 +2647,42 @@
                 {
                     "k": "770",
                     "v": "Files\/File770.pvr"
+                },
+                {
+                    "k": "823",
+                    "v": "Files\/File823"
+                },
+                {
+                    "k": "824",
+                    "v": "Files\/File824"
+                },
+                {
+                    "k": "825",
+                    "v": "Files\/File825"
+                },
+                {
+                    "k": "826",
+                    "v": "Files\/File826"
+                },
+                {
+                    "k": "827",
+                    "v": "Files\/File827"
+                },
+                {
+                    "k": "828",
+                    "v": "Files\/File828"
+                },
+                {
+                    "k": "829",
+                    "v": "Files\/File829"
+                },
+                {
+                    "k": "830",
+                    "v": "Files\/File830"
+                },
+                {
+                    "k": "1074",
+                    "v": "Files\/File1074.mp3"
                 }
             ]
         },
@@ -2676,203 +2876,203 @@
                     },
                     {
                         "k": "1200",
-                        "v": "Import"
+                        "v": "Import Enemies"
                     },
                     {
                         "k": "1201",
-                        "v": "Import\/Warship.obj"
+                        "v": "Import Enemies\/Warship.obj"
                     },
                     {
                         "k": "1202",
-                        "v": "Import\/UltravioletIntruder.obj"
+                        "v": "Import Enemies\/UltravioletIntruder.obj"
                     },
                     {
                         "k": "1203",
-                        "v": "Import\/StarMarineTrooper.obj"
+                        "v": "Import Enemies\/StarMarineTrooper.obj"
                     },
                     {
                         "k": "1204",
-                        "v": "Import\/RedFighter.obj"
+                        "v": "Import Enemies\/RedFighter.obj"
                     },
                     {
                         "k": "1205",
-                        "v": "Import\/CamoStellarJet.obj"
+                        "v": "Import Enemies\/CamoStellarJet.obj"
                     },
                     {
                         "k": "1206",
-                        "v": "Import\/MicroRecon.obj"
+                        "v": "Import Enemies\/MicroRecon.obj"
                     },
                     {
                         "k": "1207",
-                        "v": "Import\/Transtellar.obj"
+                        "v": "Import Enemies\/Transtellar.obj"
                     },
                     {
                         "k": "1208",
-                        "v": "Import\/InfraredFurtive.obj"
+                        "v": "Import Enemies\/InfraredFurtive.obj"
                     },
                     {
                         "k": "1209",
-                        "v": "Import\/MeteorSlicer.obj"
+                        "v": "Import Enemies\/MeteorSlicer.obj"
                     },
                     {
                         "k": "1210",
-                        "v": "Import\/GalactixRacer.obj"
+                        "v": "Import Enemies\/GalactixRacer.obj"
                     },
                     {
                         "k": "1211",
-                        "v": "Import\/InterstellarRunner.obj"
+                        "v": "Import Enemies\/InterstellarRunner.obj"
                     },
                     {
                         "k": "1212",
-                        "v": "Import\/DualStriker.obj"
+                        "v": "Import Enemies\/DualStriker.obj"
                     },
                     {
                         "k": "1213",
-                        "v": "Import\/T_Warship\/Warship 2.png"
+                        "v": "Import Enemies\/T_Warship\/Warship 2.png"
                     },
                     {
                         "k": "1214",
-                        "v": "Import\/T_Warship\/Warship_Emissive.png"
+                        "v": "Import Enemies\/T_Warship\/Warship_Emissive.png"
                     },
                     {
                         "k": "1217",
-                        "v": "Import\/T_Warship"
+                        "v": "Import Enemies\/T_Warship"
                     },
                     {
                         "k": "1221",
-                        "v": "Import\/T_Warship\/M_Warship.lsmat"
+                        "v": "Import Enemies\/T_Warship\/M_Warship.lsmat"
                     },
                     {
                         "k": "1222",
-                        "v": "Import\/T_CamoStellarJet\/CamoStellarJet 2.png"
+                        "v": "Import Enemies\/T_CamoStellarJet\/CamoStellarJet 2.png"
                     },
                     {
                         "k": "1223",
-                        "v": "Import\/T_CamoStellarJet"
+                        "v": "Import Enemies\/T_CamoStellarJet"
                     },
                     {
                         "k": "1224",
-                        "v": "Import\/T_CamoStellarJet\/M_CamoStellarJet.lsmat"
+                        "v": "Import Enemies\/T_CamoStellarJet\/M_CamoStellarJet.lsmat"
                     },
                     {
                         "k": "1225",
-                        "v": "Import\/T_UltravioletIntruder"
+                        "v": "Import Enemies\/T_UltravioletIntruder"
                     },
                     {
                         "k": "1226",
-                        "v": "Import\/T_DualStriker"
+                        "v": "Import Enemies\/T_DualStriker"
                     },
                     {
                         "k": "1227",
-                        "v": "Import\/T_InterstellarRunner"
+                        "v": "Import Enemies\/T_InterstellarRunner"
                     },
                     {
                         "k": "1228",
-                        "v": "Import\/T_GalactixRacer"
+                        "v": "Import Enemies\/T_GalactixRacer"
                     },
                     {
                         "k": "1229",
-                        "v": "Import\/T_MeteorSlicer"
+                        "v": "Import Enemies\/T_MeteorSlicer"
                     },
                     {
                         "k": "1230",
-                        "v": "Import\/T_InfraredFurtive"
+                        "v": "Import Enemies\/T_InfraredFurtive"
                     },
                     {
                         "k": "1231",
-                        "v": "Import\/T_Transtellar"
+                        "v": "Import Enemies\/T_Transtellar"
                     },
                     {
                         "k": "1232",
-                        "v": "Import\/T_MicroRecon"
+                        "v": "Import Enemies\/T_MicroRecon"
                     },
                     {
                         "k": "1233",
-                        "v": "Import\/T_RedFighter"
+                        "v": "Import Enemies\/T_RedFighter"
                     },
                     {
                         "k": "1234",
-                        "v": "Import\/T_StarMarineTrooper"
+                        "v": "Import Enemies\/T_StarMarineTrooper"
                     },
                     {
                         "k": "1235",
-                        "v": "Import\/T_UltravioletIntruder\/UltravioletIntruder.png"
+                        "v": "Import Enemies\/T_UltravioletIntruder\/UltravioletIntruder.png"
                     },
                     {
                         "k": "1236",
-                        "v": "Import\/T_Transtellar\/Transtellar.png"
+                        "v": "Import Enemies\/T_Transtellar\/Transtellar.png"
                     },
                     {
                         "k": "1237",
-                        "v": "Import\/T_StarMarineTrooper\/StarMarineTrooper.png"
+                        "v": "Import Enemies\/T_StarMarineTrooper\/StarMarineTrooper.png"
                     },
                     {
                         "k": "1238",
-                        "v": "Import\/T_RedFighter\/RedFighter.png"
+                        "v": "Import Enemies\/T_RedFighter\/RedFighter.png"
                     },
                     {
                         "k": "1239",
-                        "v": "Import\/T_MicroRecon\/MicroRecon.png"
+                        "v": "Import Enemies\/T_MicroRecon\/MicroRecon.png"
                     },
                     {
                         "k": "1240",
-                        "v": "Import\/T_MeteorSlicer\/MeteorSlicer.png"
+                        "v": "Import Enemies\/T_MeteorSlicer\/MeteorSlicer.png"
                     },
                     {
                         "k": "1241",
-                        "v": "Import\/T_InterstellarRunner\/InterstellarRunner.png"
+                        "v": "Import Enemies\/T_InterstellarRunner\/InterstellarRunner.png"
                     },
                     {
                         "k": "1242",
-                        "v": "Import\/T_InfraredFurtive\/InfraredFurtive.png"
+                        "v": "Import Enemies\/T_InfraredFurtive\/InfraredFurtive.png"
                     },
                     {
                         "k": "1243",
-                        "v": "Import\/T_GalactixRacer\/GalactixRacer.png"
+                        "v": "Import Enemies\/T_GalactixRacer\/GalactixRacer.png"
                     },
                     {
                         "k": "1244",
-                        "v": "Import\/T_DualStriker\/DualStriker.png"
+                        "v": "Import Enemies\/T_DualStriker\/DualStriker.png"
                     },
                     {
                         "k": "1245",
-                        "v": "Import\/T_UltravioletIntruder\/M_UltravioletIntruder.lsmat"
+                        "v": "Import Enemies\/T_UltravioletIntruder\/M_UltravioletIntruder.lsmat"
                     },
                     {
                         "k": "1250",
-                        "v": "Import\/T_InterstellarRunner\/M_InterstellarRunner.lsmat"
+                        "v": "Import Enemies\/T_InterstellarRunner\/M_InterstellarRunner.lsmat"
                     },
                     {
                         "k": "1251",
-                        "v": "Import\/T_GalactixRacer\/M_GalactixRacer.lsmat"
+                        "v": "Import Enemies\/T_GalactixRacer\/M_GalactixRacer.lsmat"
                     },
                     {
                         "k": "1252",
-                        "v": "Import\/T_MeteorSlicer\/M_MeteorSlicer.lsmat"
+                        "v": "Import Enemies\/T_MeteorSlicer\/M_MeteorSlicer.lsmat"
                     },
                     {
                         "k": "1253",
-                        "v": "Import\/T_InfraredFurtive\/M_InfraredFurtive.lsmat"
+                        "v": "Import Enemies\/T_InfraredFurtive\/M_InfraredFurtive.lsmat"
                     },
                     {
                         "k": "1254",
-                        "v": "Import\/T_Transtellar\/M_Transtellar.lsmat"
+                        "v": "Import Enemies\/T_Transtellar\/M_Transtellar.lsmat"
                     },
                     {
                         "k": "1255",
-                        "v": "Import\/T_MicroRecon\/M_MicroRecon.lsmat"
+                        "v": "Import Enemies\/T_MicroRecon\/M_MicroRecon.lsmat"
                     },
                     {
                         "k": "1256",
-                        "v": "Import\/T_RedFighter\/M_RedFighter.lsmat"
+                        "v": "Import Enemies\/T_RedFighter\/M_RedFighter.lsmat"
                     },
                     {
                         "k": "1257",
-                        "v": "Import\/T_StarMarineTrooper\/M_StarMarineTrooper.lsmat"
+                        "v": "Import Enemies\/T_StarMarineTrooper\/M_StarMarineTrooper.lsmat"
                     },
                     {
                         "k": "1258",
-                        "v": "Import\/T_DualStriker\/M_DualStriker.lsmat"
+                        "v": "Import Enemies\/T_DualStriker\/M_DualStriker.lsmat"
                     },
                     {
                         "k": "1259",
@@ -2880,7 +3080,7 @@
                     },
                     {
                         "k": "1260",
-                        "v": "Box.mesh"
+                        "v": "Meshes\/Box.mesh"
                     },
                     {
                         "k": "1261",
@@ -2901,6 +3101,26 @@
                     {
                         "k": "1269",
                         "v": "Textures\/UI\/prapor.png"
+                    },
+                    {
+                        "k": "1280",
+                        "v": "Textures\/AnimExplosion"
+                    },
+                    {
+                        "k": "1285",
+                        "v": "Textures\/AnimExplosion\/animation_ex_b"
+                    },
+                    {
+                        "k": "1286",
+                        "v": "Textures\/AnimExplosion\/animation_ex_a"
+                    },
+                    {
+                        "k": "1362",
+                        "v": "RT"
+                    },
+                    {
+                        "k": "1363",
+                        "v": "Audio\/Start_Audio.mp3"
                     }
                 ],
                 "hashes": [
@@ -3074,7 +3294,7 @@
                     },
                     {
                         "k": "1019",
-                        "v": "43bedcb9c635f6958c1ce61f0b81b508"
+                        "v": "795cba2bd245389d32c2667d3ad04840"
                     },
                     {
                         "k": "1020",
@@ -3082,7 +3302,7 @@
                     },
                     {
                         "k": "1021",
-                        "v": "eaa41bf2d5732b90e554fc2877f5a67d"
+                        "v": "5854bf235875912ced3d978fac00da30"
                     },
                     {
                         "k": "1022",
@@ -3730,7 +3950,7 @@
                     },
                     {
                         "k": "1221",
-                        "v": "36d0f5a5a7c1fcdb43f196f927de4467"
+                        "v": "6beecd1b7d03f8d57e8c3d143447714a"
                     },
                     {
                         "k": "1222",
@@ -3738,7 +3958,7 @@
                     },
                     {
                         "k": "1224",
-                        "v": "25070a1906ad99957dd583f1b4296209"
+                        "v": "00a331229e0b205a2c654640fb6b884c"
                     },
                     {
                         "k": "1235",
@@ -3782,7 +4002,7 @@
                     },
                     {
                         "k": "1245",
-                        "v": "58215a34885ca81a01d6bc7acf8d7ef8"
+                        "v": "0ecb93390fece913c3bc57fef1137f3f"
                     },
                     {
                         "k": "1247",
@@ -3798,39 +4018,39 @@
                     },
                     {
                         "k": "1250",
-                        "v": "224a3f24126b7b73ba05ab65f536720b"
+                        "v": "b2bb7ca98f552530d13d673f21a9ba43"
                     },
                     {
                         "k": "1251",
-                        "v": "b31c51970a813767466756a267122310"
+                        "v": "db8e06fd2127f0618f2efd68d7d159e0"
                     },
                     {
                         "k": "1252",
-                        "v": "c5fd6459025be10b799660d4811b183e"
+                        "v": "e2c53112aa10639aca71e87a7c683783"
                     },
                     {
                         "k": "1253",
-                        "v": "d8f7d881c52c28b2ea9ed357334323f5"
+                        "v": "a793b7c4058a9b81f60367e85b71f449"
                     },
                     {
                         "k": "1254",
-                        "v": "19f6184c4bf2edcbd2cd3cf813933720"
+                        "v": "ca81750de3b0c846681ab62d71ee1e89"
                     },
                     {
                         "k": "1255",
-                        "v": "e7f485f440282c523d26535c4f9c4f80"
+                        "v": "3fe267dcba90cd5d59570c39974585a4"
                     },
                     {
                         "k": "1256",
-                        "v": "42cfdff1a05400febf7ee174cbaa084e"
+                        "v": "8eb8cac9301129454850f34082031d0a"
                     },
                     {
                         "k": "1257",
-                        "v": "81146c9c6759dc1e6e8619c6b9b6a36e"
+                        "v": "cdceb6de0e4f722bf2e7e4c7d9e4bbc2"
                     },
                     {
                         "k": "1258",
-                        "v": "d9c67e039e8da4979016214d505c6b96"
+                        "v": "5f0a0ea5be0e73a9d72ddfa5779ba148"
                     },
                     {
                         "k": "1259",
@@ -3842,11 +4062,11 @@
                     },
                     {
                         "k": "1261",
-                        "v": "cd0e4e76905194be0eba4881a1cc2234"
+                        "v": "5572b51e8180272d5509987128a02364"
                     },
                     {
                         "k": "1262",
-                        "v": "abbea41323080234a0ba27a9c871fbe9"
+                        "v": "e084817cb4b8d5ff14785b223a960039"
                     },
                     {
                         "k": "1264",
@@ -3867,26 +4087,361 @@
                     {
                         "k": "1269",
                         "v": "f1c59744eb5315b9863cca6c8cfe7152"
+                    },
+                    {
+                        "k": "1271",
+                        "v": "d0999b387c0588ca2cd0be04ea3d690b"
+                    },
+                    {
+                        "k": "1272",
+                        "v": "def3ecd954dee1e5d5203e8d746c693f"
+                    },
+                    {
+                        "k": "1273",
+                        "v": "f75b5176a2fd5167f226ecffa80e14e0"
+                    },
+                    {
+                        "k": "1274",
+                        "v": "a623ec9bf8b24f13368f86051769f778"
+                    },
+                    {
+                        "k": "1275",
+                        "v": "e1e9761fd5c5ed9983b11bc49a73035f"
+                    },
+                    {
+                        "k": "1276",
+                        "v": "8cb3b37f05a1fa12df55d15cc5eec6fc"
+                    },
+                    {
+                        "k": "1277",
+                        "v": "20e41685905ff206f5dd1068d143d9c3"
+                    },
+                    {
+                        "k": "1278",
+                        "v": "8a6b82731f553cd920fce1bd5cbd4aa1"
+                    },
+                    {
+                        "k": "1279",
+                        "v": "cae28532383821c2b8b717d530590866"
+                    },
+                    {
+                        "k": "1281",
+                        "v": "cae28532383821c2b8b717d530590866"
+                    },
+                    {
+                        "k": "1282",
+                        "v": "c57d8d3b71b5b197dc34a7f0cf0d4a0e"
+                    },
+                    {
+                        "k": "1283",
+                        "v": "cae28532383821c2b8b717d530590866"
+                    },
+                    {
+                        "k": "1284",
+                        "v": "820d2278e51be1670fe35ecfeb63911f"
+                    },
+                    {
+                        "k": "1285",
+                        "v": "a876eedb2d77c5aa4b0094ec243bd7e9"
+                    },
+                    {
+                        "k": "1286",
+                        "v": "299e2011524bbb1cfd34b27f04ccd0ea"
+                    },
+                    {
+                        "k": "1289",
+                        "v": "1765b4a1fd799ee1e7d2e60f5d420e76"
+                    },
+                    {
+                        "k": "1290",
+                        "v": "e10e3aaf3fb177dcea0d9722bcaec4a2"
+                    },
+                    {
+                        "k": "1291",
+                        "v": "e5832960a7a7f2e63264bc46b1f1c31a"
+                    },
+                    {
+                        "k": "1292",
+                        "v": "c78547646c2e4cb267904c4111575a80"
+                    },
+                    {
+                        "k": "1293",
+                        "v": "48b12a469912e2ea596a821caf4c75d9"
+                    },
+                    {
+                        "k": "1294",
+                        "v": "600c98dc58aa378617a1c9091e1e0759"
+                    },
+                    {
+                        "k": "1296",
+                        "v": "72f3d20965d545dd3b8f5279221d041a"
+                    },
+                    {
+                        "k": "1297",
+                        "v": "a8b42c849814bc0d7450585f65ba2f5f"
+                    },
+                    {
+                        "k": "1299",
+                        "v": "3c24b9f94a7288a72bd1f7d4495c8f9f"
+                    },
+                    {
+                        "k": "1300",
+                        "v": "da93b67eb961fdecdd2f9807fcabe3f6"
+                    },
+                    {
+                        "k": "1301",
+                        "v": "6632e3cf22715d02064ffc15905a8166"
+                    },
+                    {
+                        "k": "1302",
+                        "v": "bc3d3295942e95f7202f42e99d80edd8"
+                    },
+                    {
+                        "k": "1303",
+                        "v": "6812f3dcb37d47f97f3b35db3a6074b2"
+                    },
+                    {
+                        "k": "1304",
+                        "v": "19f1b0d04eea792f13690499a78ef601"
+                    },
+                    {
+                        "k": "1305",
+                        "v": "77dc7ef86dd6c81636281b885467b469"
+                    },
+                    {
+                        "k": "1306",
+                        "v": "ca8c73b46e948d21400e40fe7be62b28"
+                    },
+                    {
+                        "k": "1307",
+                        "v": "989086405f443b120acfb2b833d7b753"
+                    },
+                    {
+                        "k": "1308",
+                        "v": "c86b6efc9c9265542f4c1b34061308ee"
+                    },
+                    {
+                        "k": "1310",
+                        "v": "d5cebb2753de6f85b465ea45e54592c1"
+                    },
+                    {
+                        "k": "1311",
+                        "v": "ec3786350da243a5f0c68fea0adb5d3b"
+                    },
+                    {
+                        "k": "1312",
+                        "v": "dec0b2edc7a5c5528dcefcbce8b6f535"
+                    },
+                    {
+                        "k": "1313",
+                        "v": "be6e7b8732610864c4991b6a59873c6c"
+                    },
+                    {
+                        "k": "1314",
+                        "v": "1424d9f2df12b9115cc5a8c91333caf2"
+                    },
+                    {
+                        "k": "1315",
+                        "v": "be3b7a8f02f04975cf41af78e8633661"
+                    },
+                    {
+                        "k": "1316",
+                        "v": "e1ce7ab80d72de935c283aa685a1c780"
+                    },
+                    {
+                        "k": "1317",
+                        "v": "ed0ad4efd8109b2b247e2eb3088dce4a"
+                    },
+                    {
+                        "k": "1318",
+                        "v": "64a12f225c75ca59622ab572c16fa03b"
+                    },
+                    {
+                        "k": "1319",
+                        "v": "2be4e6ee64caea358587eb59eb18b3f9"
+                    },
+                    {
+                        "k": "1321",
+                        "v": "7d506c92d124ea2f6f0bf05f7d47c4b3"
+                    },
+                    {
+                        "k": "1322",
+                        "v": "d9e12b460d719031fc25399cb7dd9005"
+                    },
+                    {
+                        "k": "1323",
+                        "v": "62c6f9b8b8e30f695ea0ebd5e7df860b"
+                    },
+                    {
+                        "k": "1324",
+                        "v": "55a1ed6e1e22fa544925c221487f72b5"
+                    },
+                    {
+                        "k": "1325",
+                        "v": "db18da6127608a4056c8fa85a41a762a"
+                    },
+                    {
+                        "k": "1326",
+                        "v": "203bbe91d38ac368bbd2646b21910197"
+                    },
+                    {
+                        "k": "1327",
+                        "v": "1d4ba5b189615d7dc1e479bd7d74bdc5"
+                    },
+                    {
+                        "k": "1328",
+                        "v": "6e647ab14873d3fafb0bc94c4bbfad4a"
+                    },
+                    {
+                        "k": "1329",
+                        "v": "aaea88b2ced51e73b38b96bbc3099f93"
+                    },
+                    {
+                        "k": "1330",
+                        "v": "f3c35e05f1f0cd78043169bdff262877"
+                    },
+                    {
+                        "k": "1332",
+                        "v": "60f7898c8dc368fa6e59f10efc8c0e9d"
+                    },
+                    {
+                        "k": "1333",
+                        "v": "d3fe29e3112c164ae49f6e6b2fb73900"
+                    },
+                    {
+                        "k": "1334",
+                        "v": "6d19e2835b535165a22de2694f847342"
+                    },
+                    {
+                        "k": "1335",
+                        "v": "580eab0b239aeb5f92464ae16be4c9f9"
+                    },
+                    {
+                        "k": "1336",
+                        "v": "1e3aee17ceee205a3fb8c1a666b9d40f"
+                    },
+                    {
+                        "k": "1337",
+                        "v": "dbf83fbb1f41118241615a3287ca16c2"
+                    },
+                    {
+                        "k": "1338",
+                        "v": "48b1a439840d913abc9a2d95a7997596"
+                    },
+                    {
+                        "k": "1339",
+                        "v": "854d686e628bd29534d45578f2f7a8c3"
+                    },
+                    {
+                        "k": "1340",
+                        "v": "d250d9921d44b4b0adfcca95fc0dfd03"
+                    },
+                    {
+                        "k": "1341",
+                        "v": "5c6c9888bf1ffd936b1a2d169dc1e30e"
+                    },
+                    {
+                        "k": "1343",
+                        "v": "9581005d58f8a27fa8996abb6fd73a91"
+                    },
+                    {
+                        "k": "1344",
+                        "v": "81cc30fd41e8f291b142d83b87f0b8b7"
+                    },
+                    {
+                        "k": "1345",
+                        "v": "262727f51accde5a94020a74b2f32d2a"
+                    },
+                    {
+                        "k": "1346",
+                        "v": "db79c816c1a2d15990f156cfb62e02e9"
+                    },
+                    {
+                        "k": "1347",
+                        "v": "d4f3c48eee3fa83ff0110440dd89b054"
+                    },
+                    {
+                        "k": "1348",
+                        "v": "275424255bf1c067bdf07ba74c573931"
+                    },
+                    {
+                        "k": "1349",
+                        "v": "284c86344f023bae64fcb3e4b8114dac"
+                    },
+                    {
+                        "k": "1350",
+                        "v": "2e5ad245862f8e0bae22797d1626255b"
+                    },
+                    {
+                        "k": "1351",
+                        "v": "e55204c2128e6b9ee98f17e631e8583a"
+                    },
+                    {
+                        "k": "1352",
+                        "v": "38043319329a7ea608ee73ac474629e0"
+                    },
+                    {
+                        "k": "1354",
+                        "v": "400c46b17e1dbe40edbc8fe49e41ae41"
+                    },
+                    {
+                        "k": "1355",
+                        "v": "5ceeded15bdbbb5aec3dec9a9d7f400b"
+                    },
+                    {
+                        "k": "1356",
+                        "v": "7d21881822f36be15a3bd9d5ce3bc119"
+                    },
+                    {
+                        "k": "1357",
+                        "v": "a048dc66217850734938862a68c65af8"
+                    },
+                    {
+                        "k": "1358",
+                        "v": "b3c010ffc31467819b5179c9b5cc1d14"
+                    },
+                    {
+                        "k": "1359",
+                        "v": "62c733d035e971e78e1eea0d015d4144"
+                    },
+                    {
+                        "k": "1360",
+                        "v": "8dd2347f52213bd662c0c3cf4f45b036"
+                    },
+                    {
+                        "k": "1361",
+                        "v": "aa53f1d323e6af3e65af7763a4d684a5"
+                    },
+                    {
+                        "k": "1363",
+                        "v": "41dcba17e28fe8d4530a68e8111c942f"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-03-12T19:35:01",
+                        "lastModified": "2022-03-13T10:34:21",
                         "name": "Public",
-                        "hash": "6bb4c6da954cc91d62b78a48f7bafe8b",
+                        "hash": "51679b2786a531a51be8e527cdaef1cd",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-11T13:47:07",
+                                "lastModified": "2022-03-13T10:36:27",
                                 "name": "Audio",
-                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "hash": "ad52d2ded546b67805989e9f6304b248",
                                 "children": [
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2022-03-07T18:16:55",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-01T12:05:24",
+                                        "name": "Start_Audio.mp3",
+                                        "hash": "41dcba17e28fe8d4530a68e8111c942f",
                                         "children": ""
                                     }
                                 ]
@@ -3896,13 +4451,6 @@
                                 "lastModified": "2022-03-07T18:16:55",
                                 "name": "Behavior.js",
                                 "hash": "91c13f7497081d3638dd81f8c7b017fd",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-03-12T18:06:12",
-                                "name": "Box.mesh",
-                                "hash": "621da74e06cc402b895f39376927a9d1",
                                 "children": ""
                             },
                             {
@@ -3922,8 +4470,8 @@
                             {
                                 "isFolder": "true",
                                 "lastModified": "2022-03-11T13:47:07",
-                                "name": "Import",
-                                "hash": "3ef6a02a9756ba962b63cdb558611350",
+                                "name": "Import Enemies",
+                                "hash": "ba051168c37879343a69d791966eac0a",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -4004,9 +4552,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:36",
+                                        "lastModified": "2022-03-13T10:41:46",
                                         "name": "T_CamoStellarJet",
-                                        "hash": "ebf894dfa93cac251df73b5fe6586cbd",
+                                        "hash": "e3c5b81674e34f5445b7275480477f85",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4024,18 +4572,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:36",
+                                                "lastModified": "2022-03-13T10:41:46",
                                                 "name": "M_CamoStellarJet.lsmat",
-                                                "hash": "5aed07ac0a65fd441b635633d185045e",
+                                                "hash": "70ca89cd885b0bc304674e40cf6e2076",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:37",
+                                        "lastModified": "2022-03-13T10:41:46",
                                         "name": "T_DualStriker",
-                                        "hash": "25ea6a572a8f7aaf262cb8d2fa268e37",
+                                        "hash": "666af81f8d7add7890e92755b041ea48",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4053,18 +4601,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:37",
+                                                "lastModified": "2022-03-13T10:41:46",
                                                 "name": "M_DualStriker.lsmat",
-                                                "hash": "fd22c108bcab61fc6ee4a5de70862607",
+                                                "hash": "66c4084a086c7dda9a39a67cb9cf270d",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:37",
+                                        "lastModified": "2022-03-13T10:41:47",
                                         "name": "T_GalactixRacer",
-                                        "hash": "97427b8e24fc458cd7f7eaab1539ddec",
+                                        "hash": "0f586a972f480cc82158a2ba3c708c2e",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4082,18 +4630,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:37",
+                                                "lastModified": "2022-03-13T10:41:47",
                                                 "name": "M_GalactixRacer.lsmat",
-                                                "hash": "9012f15692c9f0e23222e4042cd4bc8d",
+                                                "hash": "d2f402f07f202e5a925f1d4c90f19bc0",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:37",
+                                        "lastModified": "2022-03-13T10:41:47",
                                         "name": "T_InfraredFurtive",
-                                        "hash": "6d888e8a4ba4168748f99dd011ce8440",
+                                        "hash": "cf016afa28d6fcfb8d771cd8f7895275",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4111,18 +4659,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:37",
+                                                "lastModified": "2022-03-13T10:41:47",
                                                 "name": "M_InfraredFurtive.lsmat",
-                                                "hash": "57ea34176534f1ac86cee7c4512b7711",
+                                                "hash": "24df65b4c961717f93a7f3d8a279aae9",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:37",
+                                        "lastModified": "2022-03-13T10:41:47",
                                         "name": "T_InterstellarRunner",
-                                        "hash": "009f0c33fd5cba7c08289d63d2d310ff",
+                                        "hash": "e513213718c753b79088c0f8d87a6f31",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4140,18 +4688,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:37",
+                                                "lastModified": "2022-03-13T10:41:47",
                                                 "name": "M_InterstellarRunner.lsmat",
-                                                "hash": "cbb9d427446949e8494ff0dca641208c",
+                                                "hash": "bd98009af367162ec4913f04d84e1097",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:37",
+                                        "lastModified": "2022-03-13T10:41:47",
                                         "name": "T_MeteorSlicer",
-                                        "hash": "b500c73896d4108d44cb5ba295cdc292",
+                                        "hash": "5882335aa141b8e68ece41c3d4b25bc7",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4169,18 +4717,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:37",
+                                                "lastModified": "2022-03-13T10:41:47",
                                                 "name": "M_MeteorSlicer.lsmat",
-                                                "hash": "de535cc5a4f2f039c0fc52565fc5e99f",
+                                                "hash": "f5a9d4eb38073ea22331896944bb3fca",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:38",
+                                        "lastModified": "2022-03-13T10:41:47",
                                         "name": "T_MicroRecon",
-                                        "hash": "8fe61955daf49c089b8a634547511e6d",
+                                        "hash": "a8b534940da859a71e85702c66010044",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4198,18 +4746,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:37",
+                                                "lastModified": "2022-03-13T10:41:47",
                                                 "name": "M_MicroRecon.lsmat",
-                                                "hash": "fcc1aeeb5dfe557e5e924b7aa128a0ea",
+                                                "hash": "fe5af8dfd9c929ccca6da6768b408359",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:38",
+                                        "lastModified": "2022-03-13T10:41:47",
                                         "name": "T_RedFighter",
-                                        "hash": "e24409a8e47a6e1b62a276d478dcb28a",
+                                        "hash": "93c7afe24fd3dd3a7d5710eb632913b9",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4220,9 +4768,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:38",
+                                                "lastModified": "2022-03-13T10:41:47",
                                                 "name": "M_RedFighter.lsmat",
-                                                "hash": "f9ccaf28e05a788f329674098607e83c",
+                                                "hash": "cdf0cd93732fed4046be90583ffd2884",
                                                 "children": ""
                                             },
                                             {
@@ -4236,9 +4784,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:38",
+                                        "lastModified": "2022-03-13T10:41:47",
                                         "name": "T_StarMarineTrooper",
-                                        "hash": "50d164c6c8f3bed2142dfeaa99415fc9",
+                                        "hash": "cb3d3f667b0773a817d6b3716992ec7c",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4249,9 +4797,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:38",
+                                                "lastModified": "2022-03-13T10:41:47",
                                                 "name": "M_StarMarineTrooper.lsmat",
-                                                "hash": "53fe5d496dcae4db351d5a5fbf5d2690",
+                                                "hash": "5dac26d69c30bc1b2577636d94b03fa1",
                                                 "children": ""
                                             },
                                             {
@@ -4265,9 +4813,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:37",
+                                        "lastModified": "2022-03-13T10:41:47",
                                         "name": "T_Transtellar",
-                                        "hash": "6f32b2e10dfabbe35107b8a2fba6f227",
+                                        "hash": "490682b598b1b48c7c0580995971fc29",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4278,9 +4826,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:37",
+                                                "lastModified": "2022-03-13T10:41:47",
                                                 "name": "M_Transtellar.lsmat",
-                                                "hash": "677bbefa60ca3adbc7b9611398ec3b03",
+                                                "hash": "b29f5c41a660f861ac42b1a2e8e093be",
                                                 "children": ""
                                             },
                                             {
@@ -4294,9 +4842,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:36",
+                                        "lastModified": "2022-03-13T10:41:46",
                                         "name": "T_UltravioletIntruder",
-                                        "hash": "d54a775f7dc425e4a2c3d789cfe7ba89",
+                                        "hash": "459a4ab9bd1360751ff9c3176d5d2d4b",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4307,9 +4855,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:36",
+                                                "lastModified": "2022-03-13T10:41:46",
                                                 "name": "M_UltravioletIntruder.lsmat",
-                                                "hash": "e254c197a03f03cc65948cc32973295f",
+                                                "hash": "e3f19807b6c285fb398c77fc25bb8823",
                                                 "children": ""
                                             },
                                             {
@@ -4323,9 +4871,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-12T19:56:36",
+                                        "lastModified": "2022-03-13T10:41:46",
                                         "name": "T_Warship",
-                                        "hash": "d8f94dff9b283a0e0fe3c11af861e5a3",
+                                        "hash": "5b2df8661ee5430d73579e201fc8060a",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4336,9 +4884,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-12T19:56:36",
+                                                "lastModified": "2022-03-13T10:41:46",
                                                 "name": "M_Warship.lsmat",
-                                                "hash": "94cfd99dd2036e14d22d6a49d60c5ae3",
+                                                "hash": "d6b4eac79cef043460f04c1d1b77e010",
                                                 "children": ""
                                             },
                                             {
@@ -4375,15 +4923,15 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-12T19:56:36",
+                                "lastModified": "2022-03-13T10:41:46",
                                 "name": "Materials",
-                                "hash": "340ebc616d9befb85b1c810a5e767bda",
+                                "hash": "d337ee83e21805ad4ca569ac0404ed08",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-12T19:56:36",
+                                        "lastModified": "2022-03-13T10:41:46",
                                         "name": "Blue.lsmat",
-                                        "hash": "b9e69c5562c248bd9f97145c796cc3d6",
+                                        "hash": "887eeace79df68517033bd1b76449837",
                                         "children": ""
                                     },
                                     {
@@ -4395,19 +4943,26 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-12T19:56:36",
+                                        "lastModified": "2022-03-13T10:41:46",
                                         "name": "Yellow.lsmat",
-                                        "hash": "3ba2687e2b8780a33bd024e4309db956",
+                                        "hash": "c9ba1ea82133677298dc1a29c9bdf903",
                                         "children": ""
                                     }
                                 ]
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-11T13:47:07",
+                                "lastModified": "2022-03-13T09:55:36",
                                 "name": "Meshes",
-                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "hash": "7bee5c341dc55c0ee3fd0b9a6defb841",
                                 "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-12T18:06:12",
+                                        "name": "Box.mesh",
+                                        "hash": "621da74e06cc402b895f39376927a9d1",
+                                        "children": ""
+                                    },
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2022-03-07T18:16:55",
@@ -4419,9 +4974,24 @@
                             },
                             {
                                 "isFolder": "true",
+                                "lastModified": "2022-03-13T10:34:18",
+                                "name": "RT",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-13T10:34:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
                                 "lastModified": "2022-03-12T18:06:13",
                                 "name": "Scripts",
-                                "hash": "2ce4f4e8f2d6f4d34a8efad7312163a6",
+                                "hash": "e3fcb04d1ab66883809778ed0da91faf",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -4446,9 +5016,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-12T19:56:02",
+                                        "lastModified": "2022-03-13T10:41:18",
                                         "name": "HeadController.js",
-                                        "hash": "43bedcb9c635f6958c1ce61f0b81b508",
+                                        "hash": "795cba2bd245389d32c2667d3ad04840",
                                         "children": ""
                                     },
                                     {
@@ -4488,19 +5058,78 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-12T19:55:35",
+                                        "lastModified": "2022-03-13T10:10:46",
                                         "name": "SpawnObj.js",
-                                        "hash": "eaa41bf2d5732b90e554fc2877f5a67d",
+                                        "hash": "5854bf235875912ced3d978fac00da30",
                                         "children": ""
                                     }
                                 ]
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-12T19:38:52",
+                                "lastModified": "2022-03-13T09:31:54",
                                 "name": "Textures",
-                                "hash": "6049031aa6a7e908885254ec50213c13",
+                                "hash": "65224772e14631787edc46e2bc40c644",
                                 "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-03-13T09:39:46",
+                                        "name": "AnimExplosion",
+                                        "hash": "5df523dddad201c7ee471269c4adb9fa",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-03-13T09:39:38",
+                                                "name": "animation_ex_a",
+                                                "hash": "504a8101045689b1a2f5fcb4a3af7cf8",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-13T09:39:38",
+                                                        "name": "animation.t3d",
+                                                        "hash": "96f206383c29de5680d0b8ca8d5c1cf1",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-13T09:39:38",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "400f3a1ecf3fd1010eb10649ad35dee2",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-03-13T09:39:05",
+                                                "name": "animation_ex_b",
+                                                "hash": "5abdb71f189ff115120d8262b40430a3",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-13T09:39:05",
+                                                        "name": "animation.t3d",
+                                                        "hash": "2a225fcacd171f688cde22fdfde76ef0",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-03-13T09:39:05",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "91676ca0137973feb706b7a817b2764e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-03-13T09:31:39",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2022-03-07T18:16:55",
@@ -4809,7 +5438,10 @@
                         ]
                     }
                 },
-                "complexResources": ""
+                "complexResources": [
+                    "1285",
+                    "1286"
+                ]
             },
             "tree": {
                 "name": "",
@@ -4825,38 +5457,6 @@
                 "source": "",
                 "additional": "",
                 "resources": [
-                    {
-                        "name": "Render Target",
-                        "type": "1",
-                        "subtype": "1",
-                        "resourceId": "1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1:1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": {
-                            "resourceInfoExportKey": {
-                                "RenderTargetRole": "1"
-                            }
-                        }
-                    },
-                    {
-                        "name": "Device Camera Texture",
-                        "type": "1",
-                        "subtype": "3",
-                        "resourceId": "2",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "2:2",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
                     {
                         "name": "Physics Root World Settings",
                         "type": "36",
@@ -5054,6 +5654,50 @@
                                         }
                                     }
                                 ]
+                            },
+                            {
+                                "name": "AnimExplosion",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1280",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "animation_ex_b",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "380",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1647157145588823:674499",
+                                        "fileId": "823",
+                                        "originalId": "824",
+                                        "publicId": "1285",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiofNMyxsvRphLw\/animation.t3d",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "animation_ex_a",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "381",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1647157178535144:701928",
+                                        "fileId": "827",
+                                        "originalId": "828",
+                                        "publicId": "1286",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiowLTyIRYIotTO\/animation.t3d",
+                                        "additional": ""
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -5070,7 +5714,54 @@
                         "publicId": "983",
                         "source": "",
                         "additional": "",
-                        "resources": ""
+                        "resources": [
+                            {
+                                "name": "Box",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "359",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647033577900418:82786",
+                                "fileId": "750",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1260",
+                                "source": "\/Users\/pavelivasiuk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioRFePZYlDmPAT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": {
+                                    "info": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "9",
+                                                "canBeDisabled": "false"
+                                            },
+                                            {
+                                                "semantic": "normal",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "tangent",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "color",
+                                                "format": "3",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            }
+                                        ],
+                                        "hasBlendShapes": "false",
+                                        "hasSkinBones": "false"
+                                    }
+                                }
+                            }
+                        ]
                     },
                     {
                         "name": "Scripts",
@@ -5629,7 +6320,22 @@
                         "publicId": "1129",
                         "source": "",
                         "additional": "",
-                        "resources": ""
+                        "resources": [
+                            {
+                                "name": "Start_Audio",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "497",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647160578336615:2394673",
+                                "fileId": "1074",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1363",
+                                "source": "C:\/Users\/Pavel Ivasiuk\/Downloads\/Audio\/buttonclick.mp3",
+                                "additional": ""
+                            }
+                        ]
                     },
                     {
                         "name": "Behavior",
@@ -5646,7 +6352,7 @@
                         "additional": ""
                     },
                     {
-                        "name": "Import",
+                        "name": "Import Enemies",
                         "type": "0",
                         "subtype": "-1",
                         "resourceId": "-1",
@@ -7322,50 +8028,66 @@
                         ]
                     },
                     {
-                        "name": "Box",
-                        "type": "3",
-                        "subtype": "0",
-                        "resourceId": "359",
+                        "name": "RT",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
                         "dependency": "0",
                         "hidden": "false",
-                        "uid": "1647033577900418:82786",
-                        "fileId": "750",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
-                        "publicId": "1260",
-                        "source": "\/Users\/pavelivasiuk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioRFePZYlDmPAT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                        "additional": {
-                            "info": {
-                                "vertexAttribs": [
-                                    {
-                                        "semantic": "position",
-                                        "format": "9",
-                                        "canBeDisabled": "false"
-                                    },
-                                    {
-                                        "semantic": "normal",
-                                        "format": "9",
-                                        "canBeDisabled": "true"
-                                    },
-                                    {
-                                        "semantic": "tangent",
-                                        "format": "9",
-                                        "canBeDisabled": "true"
-                                    },
-                                    {
-                                        "semantic": "color",
-                                        "format": "3",
-                                        "canBeDisabled": "true"
-                                    },
-                                    {
-                                        "semantic": "texture0",
-                                        "format": "9",
-                                        "canBeDisabled": "true"
+                        "publicId": "1362",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target Capture",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "resourceInfoExportKey": {
+                                        "RenderTargetRole": "1"
                                     }
-                                ],
-                                "hasBlendShapes": "false",
-                                "hasSkinBones": "false"
+                                }
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Render Target Live",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "496",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647160447765087:2274570",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
                             }
-                        }
+                        ]
                     }
                 ]
             }
@@ -7373,7 +8095,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1602505504609476:75817"
+                    "1647160779692049:2445052"
                 ]
             }
         },
@@ -9143,6 +9865,62 @@
                                     "settings_hash": "2049"
                                 },
                                 "v": "770"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1647157145588823:674499",
+                    "v": {
+                        "infos": {
+                            "originalSize": "26540",
+                            "compressedSize": "13036",
+                            "originalRAM": "260100",
+                            "compressedRAM": "32768",
+                            "extension": "t3d",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "825",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a876eedb2d77c5aa4b0094ec243bd7e9",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "826"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1647157178535144:701928",
+                    "v": {
+                        "infos": {
+                            "originalSize": "60846",
+                            "compressedSize": "22662",
+                            "originalRAM": "260100",
+                            "compressedRAM": "32768",
+                            "extension": "t3d",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "829",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "299e2011524bbb1cfd34b27f04ccd0ea",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "830"
                             }
                         ]
                     }

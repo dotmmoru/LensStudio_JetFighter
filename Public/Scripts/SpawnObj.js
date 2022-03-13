@@ -14,6 +14,9 @@
 //@input bool isBullet
 //@input int health
 
+//@input SceneObject playerMesh
+//@input Component.Image explosionSprite
+
 var aimT = script.razorGame.getTransform();
 var transform = script.getSceneObject().getTransform();
 var isMoving = false;
@@ -60,6 +63,13 @@ function Move()
     CheckCollision();
 }
 
+function PlayExplosionAnimation()
+{
+    script.explosionSprite.enabled = true;
+    var provider = script.explosionSprite.mainPass.baseTex.control;
+    provider.play(1, 0);
+}
+
 function CheckCollision()
 {
     var Pos = transform.getWorldPosition();
@@ -70,8 +80,9 @@ function CheckCollision()
         {
             if (Math.abs(razorPos.y - Pos.y)<script.yCollision)
             {
-               // print("Collision with player");
-                SelfDisable(0.1);
+                // print("Collision with player");
+                PlayExplosionAnimation();
+                SelfDisable(0.5);
                 PlayerDie();
             }
         }
@@ -103,7 +114,8 @@ function CheckHealth()
 {
     if(script.health === 0)
     {
-        SelfDisable(0.1);
+        PlayExplosionAnimation();
+        SelfDisable(0.5);
         script.ringsController.api.IncreaseScore();
     }
 }
@@ -115,6 +127,9 @@ function SelfDisable(value)
 
 function InitBasePosition()
 {
+    if(script.isBullet === false)
+        script.explosionSprite.enabled = false;
+
     var Pos = transform.getWorldPosition();
 
     if(script.isBullet === false)

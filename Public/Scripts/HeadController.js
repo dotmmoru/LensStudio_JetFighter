@@ -8,12 +8,15 @@
 //@input SceneObject endGamePanel
 //@input int maxScore
 //@input Component.Text scoreTxt
+//@input Component.Text scoreFinalTxt
 //@input SceneObject scorePanel
 
-//@input Component.AudioComponent ringAudio
+//@input Component.AudioComponent gameOverAudio
 //@input Component.AudioComponent victoryAudio
-//@input Component.AudioComponent shavingAudio
+//@input Component.AudioComponent startAudio
 
+//@input SceneObject playerMesh
+//@input Component.Image explosionSprite
 
 //@input SceneObject beauty 
 
@@ -29,42 +32,48 @@ script.api.PlayAnim = function ()
     if (isGameEnabled === false) return;    
     
     isGameEnabled = false;
-    PlayRingAudio();
+    PlayGameOverAudio();
     
     // Play score bounce anim
     global.tweenManager.startTween( script.scorePanel, "update_score_tween" );  
     
-  //  delayPlayExplosionAnim.reset(0.45);   
+    PlayExplosionAnimation();
+
+    delay_disableMesh.reset(0.5);
 
 // GAME OVER
     delayGameOver.reset(1);
 }
+
+function PlayExplosionAnimation()
+{
+    script.explosionSprite.enabled = true;
+    var provider = script.explosionSprite.mainPass.baseTex.control;
+    provider.play(1, 0);
+}
+
+var delay_disableMesh = script.createEvent("DelayedCallbackEvent");
+delay_disableMesh.bind(function (eventData)
+{
+    script.playerMesh.enabled = false;
+});
 
 var delayReleaseGame = script.createEvent("DelayedCallbackEvent");
 delayReleaseGame.bind(function (eventData)
 {
     isGameEnabled = true;
 
-    StopShavingAudio();
     script.ringsController.api.ReleaseGame();
     script.playerFireController.api.ReleaseGame();
 });
 
-function PlayRingAudio()
+function PlayGameOverAudio()
 {
-   // script.ringAudio.play(1);
+   // script.gameOverAudio.play(1);
 }
 function PlayVictoryAudio()
 {
   //  script.victoryAudio.play(1);
-}
-function PlayShavingAudio()
-{
- //   script.shavingAudio.play(1);
-}
-function StopShavingAudio()
-{
-  //  script.shavingAudio.stop(true);
 }
 
 
@@ -78,6 +87,8 @@ script.api.SetScore = function (value)
     score = value;
 
     script.scoreTxt.text = score.toString();
+
+    script.scoreFinalTxt.text = "Destroyed: \n" + score;
 }
 
 script.api.GetScore = function () 
@@ -87,6 +98,7 @@ script.api.GetScore = function ()
 
 script.api.ResetGame = function () 
 {
+    script.startAudio.play(1);
     BeginGame(); 
 }
 
@@ -139,6 +151,9 @@ function BeginGame()
     print ("Begin game");
     isGameEnabled = false;
 
+    script.explosionSprite.enabled = false;
+    script.playerMesh.enabled = true;
+
     global.tweenManager.startTween(script.beauty, "reset_beauty");
 
     script.scorePanel.enabled = false;
@@ -155,6 +170,7 @@ var delayHide_StartHint = script.createEvent("DelayedCallbackEvent");
 delayHide_StartHint.bind(function (eventData)
 {
     print ("delayHide_StartHint");
+    script.startAudio.play(1);
 
    script.startHint.enabled = false; 
    delay_ShowSecondHint.reset(0.75);
