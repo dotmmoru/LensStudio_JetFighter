@@ -3,7 +3,7 @@
     "document_id": "SSzU5nTCYNTUti8BqyMD",
     "original_document_id": "7xkSWqFqdC9gLw-5aTFj",
     "version": "29",
-    "lastChanged": "1647160964501",
+    "lastChanged": "1647161295696",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -479,6 +479,9 @@
                         "Box"
                     ],
                     [
+                        "Plane"
+                    ],
+                    [
                         "RT"
                     ],
                     [
@@ -660,9 +663,9 @@
                     "1602492749683915:56739",
                     "1602492749687442:56762",
                     "1602492749701190:56859",
-                    "1602494676812111:212448",
                     "1602499411926287:801213",
                     "1602499644010369:836350",
+                    "1602504934978795:7968",
                     "1602509313257406:315727",
                     "1602509314051493:316467",
                     "1602509314577286:317137",
@@ -744,18 +747,20 @@
                     "1646674092017259:1505615",
                     "1646674101316585:1528243",
                     "1646932232411186:234568",
+                    "1646932272241238:249844",
+                    "1647006505186683:781673",
                     "1647006527466424:792374",
                     "1647006527472503:792411",
                     "1647037223667178:1560503",
                     "1647037224708402:1568420",
-                    "1647037535335648:1760916",
                     "1647159544712176:1890709",
                     "1647159560857505:1910208",
                     "1647159598301197:1932340",
                     "1647159617632297:1952402",
                     "1647159632003855:1972026",
                     "1647159655583683:1992875",
-                    "1647160483375689:2319487"
+                    "1647160483375689:2319487",
+                    "1647160765912304:2443288"
                 ]
             ],
             "selectionSetList": ""
@@ -774,7 +779,7 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "2"
+                "camera_type": "1"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
@@ -1589,6 +1594,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "498",
+                    "uid": "1647161154059183:2700893",
+                    "name": "Files\/File1075.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1913,7 +1926,8 @@
                 "73": "1647158421970050:1263135",
                 "74": "1647160504944922:2351597",
                 "75": "1647160765912304:2443288",
-                "76": "1647160779692049:2445052"
+                "76": "1647160779692049:2445052",
+                "77": "1647161209179925:2747281"
             }
         },
         "LayerComponent": {
@@ -2683,6 +2697,14 @@
                 {
                     "k": "1074",
                     "v": "Files\/File1074.mp3"
+                },
+                {
+                    "k": "1075",
+                    "v": "Files\/File1075.mesh"
+                },
+                {
+                    "k": "1076",
+                    "v": "Files\/File1076.mesh"
                 }
             ]
         },
@@ -3121,6 +3143,10 @@
                     {
                         "k": "1363",
                         "v": "Audio\/Start_Audio.mp3"
+                    },
+                    {
+                        "k": "1364",
+                        "v": "Plane.mesh"
                     }
                 ],
                 "hashes": [
@@ -3950,7 +3976,7 @@
                     },
                     {
                         "k": "1221",
-                        "v": "6beecd1b7d03f8d57e8c3d143447714a"
+                        "v": "77e811788dc8380e5e82a76a3c490e90"
                     },
                     {
                         "k": "1222",
@@ -3958,7 +3984,7 @@
                     },
                     {
                         "k": "1224",
-                        "v": "00a331229e0b205a2c654640fb6b884c"
+                        "v": "6f93d733c721c74a789703d1710648b8"
                     },
                     {
                         "k": "1235",
@@ -4002,7 +4028,7 @@
                     },
                     {
                         "k": "1245",
-                        "v": "0ecb93390fece913c3bc57fef1137f3f"
+                        "v": "a23e30778b14a97dcd847b30deca8467"
                     },
                     {
                         "k": "1247",
@@ -4018,39 +4044,39 @@
                     },
                     {
                         "k": "1250",
-                        "v": "b2bb7ca98f552530d13d673f21a9ba43"
+                        "v": "2bc7230ed965e81f9ddf5d796dac77cb"
                     },
                     {
                         "k": "1251",
-                        "v": "db8e06fd2127f0618f2efd68d7d159e0"
+                        "v": "1b9ee7816a73f3d077941bf06ca3aaf9"
                     },
                     {
                         "k": "1252",
-                        "v": "e2c53112aa10639aca71e87a7c683783"
+                        "v": "73e6c1f8d1d92d15de8a241e8a57be34"
                     },
                     {
                         "k": "1253",
-                        "v": "a793b7c4058a9b81f60367e85b71f449"
+                        "v": "34669cef9ce014974cd606e995cb70ec"
                     },
                     {
                         "k": "1254",
-                        "v": "ca81750de3b0c846681ab62d71ee1e89"
+                        "v": "50af1b7f18452be21af60b8291d65e2c"
                     },
                     {
                         "k": "1255",
-                        "v": "3fe267dcba90cd5d59570c39974585a4"
+                        "v": "72fc26c85285e62cc943fe26c72250fc"
                     },
                     {
                         "k": "1256",
-                        "v": "8eb8cac9301129454850f34082031d0a"
+                        "v": "dc80af9a2aeab3071debaa14a4c4da16"
                     },
                     {
                         "k": "1257",
-                        "v": "cdceb6de0e4f722bf2e7e4c7d9e4bbc2"
+                        "v": "9ec7f1f91cc10d73d4523686d79eaa76"
                     },
                     {
                         "k": "1258",
-                        "v": "5f0a0ea5be0e73a9d72ddfa5779ba148"
+                        "v": "01b88c76e7e1222654642c5bac1d7f5c"
                     },
                     {
                         "k": "1259",
@@ -4062,11 +4088,11 @@
                     },
                     {
                         "k": "1261",
-                        "v": "5572b51e8180272d5509987128a02364"
+                        "v": "3516259295a2cbb754f20dd4b156174d"
                     },
                     {
                         "k": "1262",
-                        "v": "e084817cb4b8d5ff14785b223a960039"
+                        "v": "437d219cfeb3ea380065dfe4191bb4fd"
                     },
                     {
                         "k": "1264",
@@ -4415,14 +4441,18 @@
                     {
                         "k": "1363",
                         "v": "41dcba17e28fe8d4530a68e8111c942f"
+                    },
+                    {
+                        "k": "1364",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-03-13T10:34:21",
+                        "lastModified": "2022-03-13T10:45:54",
                         "name": "Public",
-                        "hash": "51679b2786a531a51be8e527cdaef1cd",
+                        "hash": "58a7b252e7dde343b6e78e0e92b43795",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -4471,7 +4501,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-11T13:47:07",
                                 "name": "Import Enemies",
-                                "hash": "ba051168c37879343a69d791966eac0a",
+                                "hash": "011f806730e5ce8d1fe63ff39ce1d7e9",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -4552,9 +4582,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:46",
+                                        "lastModified": "2022-03-13T10:42:40",
                                         "name": "T_CamoStellarJet",
-                                        "hash": "e3c5b81674e34f5445b7275480477f85",
+                                        "hash": "6e5146884988294ee078a247e88d0b05",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4572,18 +4602,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:46",
+                                                "lastModified": "2022-03-13T10:42:40",
                                                 "name": "M_CamoStellarJet.lsmat",
-                                                "hash": "70ca89cd885b0bc304674e40cf6e2076",
+                                                "hash": "00a331229e0b205a2c654640fb6b884c",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:46",
+                                        "lastModified": "2022-03-13T10:42:40",
                                         "name": "T_DualStriker",
-                                        "hash": "666af81f8d7add7890e92755b041ea48",
+                                        "hash": "41217799d6cb314f6b5a1c8c79b39fe1",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4601,18 +4631,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:46",
+                                                "lastModified": "2022-03-13T10:42:40",
                                                 "name": "M_DualStriker.lsmat",
-                                                "hash": "66c4084a086c7dda9a39a67cb9cf270d",
+                                                "hash": "5f0a0ea5be0e73a9d72ddfa5779ba148",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:47",
+                                        "lastModified": "2022-03-13T10:42:41",
                                         "name": "T_GalactixRacer",
-                                        "hash": "0f586a972f480cc82158a2ba3c708c2e",
+                                        "hash": "ee9ef8f76f59b0995b005bed28258f50",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4630,18 +4660,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:47",
+                                                "lastModified": "2022-03-13T10:42:41",
                                                 "name": "M_GalactixRacer.lsmat",
-                                                "hash": "d2f402f07f202e5a925f1d4c90f19bc0",
+                                                "hash": "db8e06fd2127f0618f2efd68d7d159e0",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:47",
+                                        "lastModified": "2022-03-13T10:42:41",
                                         "name": "T_InfraredFurtive",
-                                        "hash": "cf016afa28d6fcfb8d771cd8f7895275",
+                                        "hash": "bf79e52c91b95e9ef52aa491a191dcb4",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4659,18 +4689,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:47",
+                                                "lastModified": "2022-03-13T10:42:41",
                                                 "name": "M_InfraredFurtive.lsmat",
-                                                "hash": "24df65b4c961717f93a7f3d8a279aae9",
+                                                "hash": "a793b7c4058a9b81f60367e85b71f449",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:47",
+                                        "lastModified": "2022-03-13T10:42:41",
                                         "name": "T_InterstellarRunner",
-                                        "hash": "e513213718c753b79088c0f8d87a6f31",
+                                        "hash": "39370ca8170b076ce9ad19b736c5d0ef",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4688,18 +4718,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:47",
+                                                "lastModified": "2022-03-13T10:42:41",
                                                 "name": "M_InterstellarRunner.lsmat",
-                                                "hash": "bd98009af367162ec4913f04d84e1097",
+                                                "hash": "b2bb7ca98f552530d13d673f21a9ba43",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:47",
+                                        "lastModified": "2022-03-13T10:42:41",
                                         "name": "T_MeteorSlicer",
-                                        "hash": "5882335aa141b8e68ece41c3d4b25bc7",
+                                        "hash": "9d90d6d37f4094743003b15e47e322e1",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4717,18 +4747,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:47",
+                                                "lastModified": "2022-03-13T10:42:41",
                                                 "name": "M_MeteorSlicer.lsmat",
-                                                "hash": "f5a9d4eb38073ea22331896944bb3fca",
+                                                "hash": "e2c53112aa10639aca71e87a7c683783",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:47",
+                                        "lastModified": "2022-03-13T10:42:41",
                                         "name": "T_MicroRecon",
-                                        "hash": "a8b534940da859a71e85702c66010044",
+                                        "hash": "bf0145ce9fbf31f633dc1cf027e54a18",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4746,18 +4776,18 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:47",
+                                                "lastModified": "2022-03-13T10:42:41",
                                                 "name": "M_MicroRecon.lsmat",
-                                                "hash": "fe5af8dfd9c929ccca6da6768b408359",
+                                                "hash": "3fe267dcba90cd5d59570c39974585a4",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:47",
+                                        "lastModified": "2022-03-13T10:42:41",
                                         "name": "T_RedFighter",
-                                        "hash": "93c7afe24fd3dd3a7d5710eb632913b9",
+                                        "hash": "60bb9bb1929a83bcac3115ba1b9fe2cd",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4768,9 +4798,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:47",
+                                                "lastModified": "2022-03-13T10:42:41",
                                                 "name": "M_RedFighter.lsmat",
-                                                "hash": "cdf0cd93732fed4046be90583ffd2884",
+                                                "hash": "8eb8cac9301129454850f34082031d0a",
                                                 "children": ""
                                             },
                                             {
@@ -4784,9 +4814,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:47",
+                                        "lastModified": "2022-03-13T10:42:41",
                                         "name": "T_StarMarineTrooper",
-                                        "hash": "cb3d3f667b0773a817d6b3716992ec7c",
+                                        "hash": "2d39ab45d6e5ffb3c4ad7fafaf97679c",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4797,9 +4827,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:47",
+                                                "lastModified": "2022-03-13T10:42:41",
                                                 "name": "M_StarMarineTrooper.lsmat",
-                                                "hash": "5dac26d69c30bc1b2577636d94b03fa1",
+                                                "hash": "cdceb6de0e4f722bf2e7e4c7d9e4bbc2",
                                                 "children": ""
                                             },
                                             {
@@ -4813,9 +4843,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:47",
+                                        "lastModified": "2022-03-13T10:42:41",
                                         "name": "T_Transtellar",
-                                        "hash": "490682b598b1b48c7c0580995971fc29",
+                                        "hash": "45f8f031cd6f7958d7a56724df3d0526",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4826,9 +4856,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:47",
+                                                "lastModified": "2022-03-13T10:42:41",
                                                 "name": "M_Transtellar.lsmat",
-                                                "hash": "b29f5c41a660f861ac42b1a2e8e093be",
+                                                "hash": "ca81750de3b0c846681ab62d71ee1e89",
                                                 "children": ""
                                             },
                                             {
@@ -4842,9 +4872,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:46",
+                                        "lastModified": "2022-03-13T10:42:40",
                                         "name": "T_UltravioletIntruder",
-                                        "hash": "459a4ab9bd1360751ff9c3176d5d2d4b",
+                                        "hash": "2ea9986b4b1724d9cff46c293583c9f8",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4855,9 +4885,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:46",
+                                                "lastModified": "2022-03-13T10:42:40",
                                                 "name": "M_UltravioletIntruder.lsmat",
-                                                "hash": "e3f19807b6c285fb398c77fc25bb8823",
+                                                "hash": "0ecb93390fece913c3bc57fef1137f3f",
                                                 "children": ""
                                             },
                                             {
@@ -4871,9 +4901,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-13T10:41:46",
+                                        "lastModified": "2022-03-13T10:42:40",
                                         "name": "T_Warship",
-                                        "hash": "5b2df8661ee5430d73579e201fc8060a",
+                                        "hash": "f6ab1a92ecf4f9fcf0a5c846ca7b0737",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -4884,9 +4914,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-13T10:41:46",
+                                                "lastModified": "2022-03-13T10:42:40",
                                                 "name": "M_Warship.lsmat",
-                                                "hash": "d6b4eac79cef043460f04c1d1b77e010",
+                                                "hash": "6beecd1b7d03f8d57e8c3d143447714a",
                                                 "children": ""
                                             },
                                             {
@@ -4923,15 +4953,15 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-13T10:41:46",
+                                "lastModified": "2022-03-13T10:42:40",
                                 "name": "Materials",
-                                "hash": "d337ee83e21805ad4ca569ac0404ed08",
+                                "hash": "a92bb0d4f20ae4cbdc5f14995e781d0d",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-13T10:41:46",
+                                        "lastModified": "2022-03-13T10:42:40",
                                         "name": "Blue.lsmat",
-                                        "hash": "887eeace79df68517033bd1b76449837",
+                                        "hash": "e084817cb4b8d5ff14785b223a960039",
                                         "children": ""
                                     },
                                     {
@@ -4943,9 +4973,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-13T10:41:46",
+                                        "lastModified": "2022-03-13T10:42:40",
                                         "name": "Yellow.lsmat",
-                                        "hash": "c9ba1ea82133677298dc1a29c9bdf903",
+                                        "hash": "5572b51e8180272d5509987128a02364",
                                         "children": ""
                                     }
                                 ]
@@ -4971,6 +5001,13 @@
                                         "children": ""
                                     }
                                 ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-01-25T19:51:36",
+                                "name": "Plane.mesh",
+                                "hash": "f3f8f179b87ba4b5a44077fb80d53214",
+                                "children": ""
                             },
                             {
                                 "isFolder": "true",
@@ -8088,6 +8125,52 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Plane",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "498",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1647161154059183:2700893",
+                        "fileId": "1075",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1364",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/meshes\/Plane.mesh",
+                        "additional": {
+                            "info": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "canBeDisabled": "false"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "color",
+                                        "format": "3",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    }
+                                ],
+                                "hasBlendShapes": "false",
+                                "hasSkinBones": "false"
+                            }
+                        }
                     }
                 ]
             }
@@ -8095,7 +8178,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1647160779692049:2445052"
+                    "1647006505186683:781673"
                 ]
             }
         },
@@ -9923,6 +10006,64 @@
                                 "v": "830"
                             }
                         ]
+                    }
+                },
+                {
+                    "k": "1647161154059183:2700893",
+                    "v": {
+                        "infos": {
+                            "originalSize": "620",
+                            "compressedSize": "620",
+                            "originalRAM": "220",
+                            "compressedRAM": "220",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "1076",
+                        "compressed_files": ""
                     }
                 }
             ]
